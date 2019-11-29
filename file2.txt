@@ -1,10 +1,1 @@
-Good bye!
-
-<<<<<<< HEAD
-=======
-Good bye!
-
-Good bye!
-
-line from user 2
->>>>>>> 8cd5b07f779e5593ed0d406304ad6a8db5b07d5e
+Good evening! 
